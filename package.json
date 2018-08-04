@@ -1,0 +1,23 @@
+{
+  "name": "si-theme-boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate for SkyImpel's Web Theme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SkyImpel/SI-Theme-Boilerplate.git"
+  },
+  "author": "Hannan Akbar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SkyImpel/SI-Theme-Boilerplate/issues"
+  },
+  "homepage": "https://github.com/SkyImpel/SI-Theme-Boilerplate#readme",
+  "devDependencies": {
+    "less-loader": "^4.1.0",
+    "webpack": "^4.16.2"
+  }
+}
